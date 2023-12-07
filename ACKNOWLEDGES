@@ -1,0 +1,19 @@
+
+This software is written to be used as part of cyber security courses, it is not
+intended to be a real website and it exposes common vulnerabilities.
+
+The development of this software is inspired by the book How to Break Web Software (2006) 
+by Mike Andrews and James A. Whittaker, as well as other vulnerable websites for pentesting
+such as BadStore and Damn Vulnerable Web Application.
+
+Some parts of the source code is written with assistance from ChatGPT, and most graphical 
+elements are created by DALL-E 2, both are artifical intelligences from OpenAI - I chose to 
+attribute the use here all though both images and source code is reworked to fit purpose, 
+and ChatGPT says "I don't generate source code or any other tangible outputs that can be used 
+in a software project" when asked about copyright...
+
+Images of products are based on photos taken by Bengt Østby, of physical lockpicks from
+companies Sparrows and Multipick, the design and logos of those companies are owned by
+those companies respectivly, and the use of these pictures in this software does not show
+any affiliation with those companies nor that they endorse this software, I have also not
+been paid by those companies for advertisement or "product placing".
